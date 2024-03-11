@@ -7,7 +7,7 @@ Declare an array using JavaScript to store the images.
 
 Provide the link or URL of images in the declared array. You can also pass the height and width in the array for the image size to display on the webpage.
 
-Declare a JavaScript variable to store a random value calculated using this floor(Math.random()*randomImage.length) method. It will generate a random number between 0 and the length of the array that will be assigned to the images to display randomly.
+Declare a JavaScript variable to store a random value calculated using this **floor(Math.random()*randomImage.length)** method. It will generate a random number between 0 and the length of the array that will be assigned to the images to display randomly.
 
 Now, return the random images selected using a number calculated in the previous step.
 
